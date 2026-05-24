@@ -37,7 +37,10 @@ Taskflow is a project management tool. With growing customer base and increase i
 5. Run all cells sequentially
   
 ## Dataset
-Synthesized a dataset of 50 support tickets with ticket id and ticket text with the help of Claude. The support issues represent real day-to-day issues faced in SaaS companies.
+TaskFlow is a fictional SaaS company created for this project. 
+The dataset of 50 support tickets was synthesised with the help 
+of Claude (Anthropic) to represent realistic day-to-day issues 
+faced in SaaS support teams.
 
 ## API Key Setup
 1. Create a free account at console.groq.com
