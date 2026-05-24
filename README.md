@@ -33,7 +33,7 @@ Taskflow is a project management tool. With growing customer base and increase i
 1. Clone the repository
 2. Install dependencies: `pip install groq pandas plotly jupyter`
 3. Add your Groq API key
-4. Open `taskflow_support_intelligence.ipynb` in Jupyter
+4. Open `taskflow-support.ipynb` in Jupyter
 5. Run all cells sequentially
   
 ## Dataset
